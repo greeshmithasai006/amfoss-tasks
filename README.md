@@ -19,8 +19,7 @@ I will help with everything whichever i learnt from club and explain the doubts 
 
 **Tasks Lists**|**Description**|
 **status**
---------------|---------------|-
---------------
+--------------|---------------|---------------
 [Task-00](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task 00)|Installing Ubuntu|completed
 [Task-01](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task 01)|Terminal Wizard|completed
 [Task-02](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task 02)|Lessgo Hugo|Pending
