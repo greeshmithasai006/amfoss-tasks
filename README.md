@@ -11,4 +11,10 @@ As i told before i am very passionate towards coding and i am sure that i can pr
 
 # WHATS YOUR PLAN FOR NEXT 6 MONTHS?
 
+To become competent in programming language and to increase my thinking skills and the way to efficiently approch the solution to coding problems
+
+# HOW WOULD I CONTRIBUTE BACK TO THE CLUB?
+
+I will help with everything whichever i learnt from club and explain the doubts to my club members and i also participate in the competitions , be active in the club
+
 
