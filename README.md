@@ -17,8 +17,7 @@ To become competent in programming language and to increase my thinking skills a
 
 I will help with everything whichever i learnt from club and explain the doubts to my club members and i also participate in the competitions , be active in the club
 
-**Tasks Lists**|**Description**|
-**status**
+**Tasks Lists**|**Description**|**status**
 --------------|---------------|---------------
 [Task-00](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task 00)|Installing Ubuntu|completed
 [Task-01](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task 01)|Terminal Wizard|completed
