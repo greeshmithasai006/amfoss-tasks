@@ -1,7 +1,7 @@
 1. ls : the most frequently used command in linux to list directories
 
 2. cd :
-3. linux command to navigate through directories
+ linux command to navigate through directories
 
 4. mkdir :
 command used to create directories in linux
