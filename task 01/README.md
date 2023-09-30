@@ -1,5 +1,4 @@
-1. ls : 
-   the most frequently used command in linux to list directories
+1. ls : the most frequently used command in linux to list directories
 
 2. cd :
    linux command to navigate through directories
