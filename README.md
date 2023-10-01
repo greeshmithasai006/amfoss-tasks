@@ -21,18 +21,18 @@ I will help with everything whichever i learnt from club and explain the doubts 
 --------------|---------------|---------------
 [Task-00](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2000)|Installing Ubuntu|completed
 [Task-01](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2001)|Terminal Wizard|completed
-[Task-02](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2002)|Lessgo Hugo|Pending
-[Task-03](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2003)|Hello world|Pending
-[Task-04](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2004)|competitive programming|Pending
-[Task-05](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2005)|Hypertext Mock Language|Pending
-[task-06](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2006)|Cricket Vault|Pending
-[Task-07](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2007)|AK-47C|Pending
-[Task-08](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2008)|Poke-search|Pending
-[Task-09](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2009)|GeoQuest|Pending
-[Task-10](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2010)|RuskOS|Pending
-[task-11](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2011)|TinkerCAD|Pending
-[Task-12](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2012)|Godot|Pending
-[Task-13](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2013)|Vim|Pending
+[Task-02](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2002)|Lessgo Hugo|attempted
+[Task-03](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2003)|Hello world|unattempted
+[Task-04](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2004)|competitive programming|unattempted
+[Task-05](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2005)|Hypertext Mock Language|unattempted
+[task-06](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2006)|Cricket Vault|unattempted
+[Task-07](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2007)|AK-47C|unattempted
+[Task-08](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2008)|Poke-search|unattempted
+[Task-09](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2009)|GeoQuest|unattempted
+[Task-10](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2010)|RuskOS|unattempted
+[task-11](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2011)|TinkerCAD|unattempted
+[Task-12](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2012)|Godot|unattempted
+[Task-13](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2013)|Vim|attempted
 [Task-14](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2014)|Bandit|completed
 [Task-15](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2015)|Project Euler|Pending
 
