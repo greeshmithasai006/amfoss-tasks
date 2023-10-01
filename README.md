@@ -34,6 +34,6 @@ I will help with everything whichever i learnt from club and explain the doubts 
 [Task-12](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2012)|Godot|unattempted
 [Task-13](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2013)|Vim|attempted
 [Task-14](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2014)|Bandit|completed
-[Task-15](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2015)|Project Euler|Pending
+[Task-15](https://github.com/greeshmithasai006/amfoss-tasks/tree/main/task%2015)|Project Euler|unattempted
 
 
