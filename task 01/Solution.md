@@ -1,4 +1,10 @@
+sudo apt install git : used for installation of git
 
+git auth login : used for logging in 
+
+git clone *repositorylink* : used for cloning th repository
+
+echo "encoded-phrase" |base64 --decode : to decode from base64
 
 ls : the most frequently used command in linux to list directories
 
@@ -22,7 +28,7 @@ clear : clear the terminal display
 
 rm --help : if we use this it will display how to use rm
 
-mv path-of-the-file-to-be-moved path-where-its-to-be-moved-to : to commit and push changes to github
+mv path-of-the-file-to-be-moved path-where-its-to-be-moved-to : to move file from one repository to other
 
 git status : It is used to display the current state of your local git repository.It provides information about which files have been modified, which files are staged for commit, and which files are untracked
 
@@ -30,4 +36,4 @@ git add filename : It is used to stage changes for commit. When you make changes
 
 git commit -m'commit-message' : It is used to create a new commit with a specified commit message.that message should contain a meaningful desciption
 
-git push : It is used to decode from base64
+git push 
